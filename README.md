@@ -22,4 +22,11 @@ link :- https://www.hackerrank.com/contests/final-exam-a-basic-data-structure-a-
 
 link :- https://www.hackerrank.com/contests/final-exam-a-basic-data-structure-a-batch-07/challenges/get-current-max
 
-                                                        ---------------  Memonul Islam Tuhin -------------------
+Final-Exam-For-C :-
+
+6.Question-Name :- Magical Tree
+
+
+link :- https://www.hackerrank.com/contests/final-exam-a-introduction-to-c-programming-a-batch-07/challenges/magical-tree-3
+
+                                                  ---------------  Memonul Islam Tuhin -------------------
